@@ -2,4 +2,4 @@
 ### Author
 Diwakar Gupta
 
-Solving merge conflicts is soooo hard!
+Solving merge conflicts is sooo hard!
