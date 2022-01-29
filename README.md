@@ -1,2 +1,3 @@
-# learning-about-version-control
-repo for dsci310 ia2
+# Learning about Version Control
+### Author
+Diwakar Gupta
